@@ -1,0 +1,2 @@
+lab2.adb:70:60: warning: potentially unsynchronized barrier [enabled by default]
+lab2.adb:70:60: warning: "num_tasks" should be private component of type [enabled by default]

@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__lab2.o
+[PROJECT FILES]
+D:\User\source\AdaLabs\lab2.gpr
+20230406185210 5a15809c118da591aa075c419e549937
+[BOUND OBJECT FILES]
+D:\User\source\AdaLabs\obj\lab2.o
+[GENERATED SOURCE FILES]
+b__lab2.ads
+b__lab2.adb
+b__lab2.ali
+[RESULTING OPTIONS]
+-LD:\User\source\AdaLabs\obj\
+-LD:\User\source\AdaLabs\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

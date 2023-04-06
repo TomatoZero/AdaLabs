@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>D:\User\source\AdaLabs\lab1.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\User\source\AdaLabs\lab1.gpr</vfs_project>
+      <vfs_file>D:\User\source\AdaLabs\src\lab1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 43" line=" 96" >
+      <vfs_project>D:\User\source\AdaLabs\lab1.gpr</vfs_project>
+      <vfs_file>D:\User\source\AdaLabs\src\lab1.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 11" line=" 3" >
+      <vfs_project>D:\User\source\AdaLabs\lab1.gpr</vfs_project>
+      <vfs_file>D:\User\source\AdaLabs\src\lab1.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
