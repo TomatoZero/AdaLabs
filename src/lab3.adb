@@ -107,9 +107,9 @@ procedure Lab3 is
    -- Release: ++
 
 begin
-   Storage(storage_size         => 5,
-           consumer_num         => 15,
-           provider_num         => 6,
+   Storage(storage_size         => 12,
+           consumer_num         => 6,
+           provider_num         => 4,
            consumer_product_num => 2,
-           provider_product_num => 5);
+           provider_product_num => 3);
 end Lab3;
