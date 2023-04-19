@@ -1,29 +1,10 @@
 <?xml version="1.0"?>
 <Locations >
-  <Project >
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\User\source\AdaLabs\lab4.gpr</vfs_project>
-      <vfs_file>D:\User\source\AdaLabs\src\lab4.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 18" line=" 4" >
-      <vfs_project>D:\User\source\AdaLabs\lab4.gpr</vfs_project>
-      <vfs_file>D:\User\source\AdaLabs\src\lab4.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\User\source\AdaLabs\lab4.gpr</vfs_project>
-      <vfs_file>D:\User\source\AdaLabs\src\lab2.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 9" line=" 65" >
-      <vfs_project>D:\User\source\AdaLabs\lab4.gpr</vfs_project>
-      <vfs_file>D:\User\source\AdaLabs\src\lab4.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project />
-      <vfs_file>D:\User\source\AdaLabs\obj\main.exe</vfs_file>
-    </file_marker>
+  <Project>
+    <vfs_file>D:\User\source\AdaLabs\lab4.gpr</vfs_file>
     <file_marker current="true" column=" 1" line=" 1" >
       <vfs_project>D:\User\source\AdaLabs\lab4.gpr</vfs_project>
-      <vfs_file>D:\User\source\AdaLabs\lab4.gpr</vfs_file>
+      <vfs_file>D:\User\source\AdaLabs\src\lab4.adb</vfs_file>
     </file_marker>
   </Project>
 </Locations>
